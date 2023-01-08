@@ -1,13 +1,13 @@
 package me.whiteship.springbootsecurity;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootsecurityApplicationTests {
+public class SpringbootsecurityApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
